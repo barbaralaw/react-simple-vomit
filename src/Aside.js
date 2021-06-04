@@ -9,7 +9,7 @@ class Aside extends Component {
   render() {
     // it will return the following element
     return (
-        // will return imported Aside, adds prop className Aside
+        // will return Aside, adds prop className Aside
         <aside className="Aside">
         </aside>
 
