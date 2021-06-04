@@ -9,7 +9,7 @@ class Footer extends Component {
   render() {
     // returns the following html 
     return (
-        // imported footer, with added prop className footer
+        // footer, with added prop className footer
         <footer className="Footer">
         </footer>
 
