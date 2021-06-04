@@ -16,7 +16,7 @@ class Header extends Component {
     }
     // will return the following html
     return (
-        // imported header, with styles as defined above and classname header-main
+        // header, with styles as defined above and classname header-main
         <header style={style} className="Header-main">
         </header>
 
